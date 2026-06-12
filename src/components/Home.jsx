@@ -2,7 +2,7 @@
 export const Home = () => {
   return (
     <div>
-      <div id="default-carousel" class="relative w-full" data-carousel="slide">
+      <div id="default-carousel" class="relative m-4 w-full" data-carousel="slide">
         {/* <!-- Carousel wrapper --> */}
         <div className="relative h-56 overflow-hidden rounded-base md:h-96">
           {/* <!-- Item 1 --> */}
